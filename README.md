@@ -5,5 +5,5 @@
 - 개인정보처리방침 / Privacy policy: https://jedobe.github.io/luckylens/privacy/
 - 문의 / Contact: jedobe@gmail.com
 
-앱과 분석 모델의 소스 코드는 AGPL-3.0 라이선스로 이 저장소에 공개될 예정입니다.
-Source code for the app and its detection model will be published here under AGPL-3.0.
+이 저장소는 앱 소개 페이지와 개인정보처리방침만 담고 있습니다. 앱 소스 코드는 공개하지 않습니다.
+This repository hosts only the app's website and privacy policy. The app source code is not published.

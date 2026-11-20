@@ -24,7 +24,6 @@
 · 광고 없음 — 한 번 구매하면 광고 없이 계속 쓸 수 있어요.
 · 사진은 휴대폰 안에서만 분석 — 서버로 보내지 않고 저장하지도 않아요.
 · 개인정보 수집 없음 — 회원가입도, 로그인도 없어요.
-· 오픈소스 — 앱과 분석 모델 소스가 AGPL-3.0으로 공개돼 있어요.
 
 ■ 알아 두세요
 · 표시된 위치는 "있을 만한 곳"이에요. 꼭 네잎클로버가 있다는 뜻은 아니니 직접 확인해 주세요.
@@ -55,7 +54,6 @@ Four-Leaf Clover Finder analyses a photo of a clover patch and marks the spots w
 · No ads — buy once, use it ad-free.
 · On-device analysis — photos are never uploaded or stored.
 · No personal data collected — no sign-up, no login.
-· Open source — the app and its detection model are published under AGPL-3.0.
 
 ■ Good to know
 · Marks show likely spots, not guaranteed four-leaf clovers — always check for yourself.
