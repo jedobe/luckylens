@@ -1,7 +1,6 @@
 # 유료(광고 없음) 출시 체크리스트
 
 ## 1. 앱 코드 (로컬)
-- [ ] **라이선스 확인**: 앱·모델이 AGPL/GPL 코드나 가중치(예: Ultralytics YOLOv5/v8/11, AGPL-3.0)를 쓰면 소스 비공개 유료 배포가 불가능 → 상업 라이선스 구매 또는 Apache/MIT 계열 모델로 교체
 - [ ] AdMob SDK 제거: `build.gradle`의 `com.google.android.gms:play-services-ads` 의존성, `AndroidManifest.xml`의 `com.google.android.gms.ads.APPLICATION_ID` meta-data, 광고 초기화·배너 코드, UMP 동의(consent) 코드
 - [ ] Manifest 최종 권한 확인: AdMob이 끌어오던 `com.google.android.gms.permission.AD_ID`가 남아 있으면 `tools:node="remove"`로 제거
 - [ ] 광고가 없으면 `INTERNET` 권한이 필요한지 확인 (분석이 완전히 기기 안에서 끝나면 빼는 것을 권장)
@@ -36,4 +35,4 @@
 
 ## 5. 출시 후
 - [ ] 랜딩 페이지에 Google Play 링크 추가
-- [ ] 앱 소스는 이 공개 저장소에 올리지 않기 (필요하면 별도 private 저장소 사용)
+- [ ] 앱·모델 소스를 이 저장소에 AGPL-3.0으로 공개 (개인정보처리방침 5항에 "공개합니다"로 적혀 있음)
